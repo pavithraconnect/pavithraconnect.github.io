@@ -61,6 +61,14 @@ html {
   background: #495057;
   color: white;
 }
+i.fa.fa-twitter.jssocials-share-logo:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-image: url('https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png');
+  background-size: cover; 
+}
 
 .fa-instagram {
   background: #495057;
