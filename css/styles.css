@@ -58,11 +58,11 @@ html {
   color: white;
 }
 .fa.fa-twitter{
-	font-family:sans-serif;
+   font-family:sans-serif;
 }
 .fa.fa-twitter::before{
-	content:"𝕏";
-	font-size:1.2em;
+   content:"𝕏";
+   font-size:1.2em;
 }
 
 .fa-instagram {
