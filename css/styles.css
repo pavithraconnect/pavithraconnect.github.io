@@ -57,11 +57,7 @@ html {
   background: #495057;
   color: white;
 }
-.fa-twitter {
-  background: #495057;
-  color: white;
-}
-i.fa.fa-twitter.jssocials-share-logo:before {
+.fa-twitter.jssocials-share-logo:before {
   content: "";
   display: inline-block;
   width: 15px;
