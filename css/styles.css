@@ -57,23 +57,9 @@ html {
   background: #495057;
   color: white;
 }
-.bi-twitter-x:before{
-  content:'';
-  background-image: url('data:image/svg+....);
-  background-size: cover;
-  height: 16px;
-  aspect-ratio: 1 / 1;
-}
-h1 .bi-twitter-x:before,
-.fs-1 .bi-twitter-x:before{
-  height: 40px;
-}
-.fa.fa-twitter{
-   font-family:sans-serif;
-}
-.fa.fa-twitter::before{
-   content:"𝕏";
-   font-size:1.2em;
+.fa-twitter {
+  background: #495057;
+  color: white;
 }
 
 .fa-instagram {
